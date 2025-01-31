@@ -1,0 +1,14 @@
+/home/victor/Teste-luby-software/VendingMachine/bin/Debug/net8.0/VendingMachine
+/home/victor/Teste-luby-software/VendingMachine/bin/Debug/net8.0/VendingMachine.deps.json
+/home/victor/Teste-luby-software/VendingMachine/bin/Debug/net8.0/VendingMachine.runtimeconfig.json
+/home/victor/Teste-luby-software/VendingMachine/bin/Debug/net8.0/VendingMachine.dll
+/home/victor/Teste-luby-software/VendingMachine/bin/Debug/net8.0/VendingMachine.pdb
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.AssemblyInfoInputs.cache
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.AssemblyInfo.cs
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.csproj.CoreCompileInputs.cache
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.dll
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/refint/VendingMachine.dll
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.pdb
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.genruntimeconfig.cache
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/ref/VendingMachine.dll
