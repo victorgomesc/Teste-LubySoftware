@@ -1,0 +1,14 @@
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/bin/Debug/net8.0/questao1.8
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/bin/Debug/net8.0/questao1.8.deps.json
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/bin/Debug/net8.0/questao1.8.runtimeconfig.json
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/bin/Debug/net8.0/questao1.8.dll
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/bin/Debug/net8.0/questao1.8.pdb
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.AssemblyInfoInputs.cache
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.AssemblyInfo.cs
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.csproj.CoreCompileInputs.cache
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.dll
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/refint/questao1.8.dll
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.pdb
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/questao1.8.genruntimeconfig.cache
+/home/victor/Teste-luby-software/Logica-de-programacao/questao1.8/obj/Debug/net8.0/ref/questao1.8.dll
