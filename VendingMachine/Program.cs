@@ -8,7 +8,7 @@ class Program
         Console.Write("Escolha uma opção: ");
     }
 
-    private static bool ProcessarOpcao(VendingMachine vendingMachine, string opcao)
+    private static bool ProcessarOpcao(VendingMachine vendingMachine, string? opcao)
     {
         switch (opcao)
         {
@@ -16,7 +16,7 @@ class Program
                 vendingMachine.MostrarEstoque();
                 break;
             case "2":
-                vendingMachine.VenderProduto();
+                vendingMachine.VenderProduct();
                 break;
             case "3":
                 vendingMachine.MostrarTotalVendas();
@@ -36,7 +36,7 @@ class Program
         while (true)
         {
             ExibirMenu();
-            string opcao = Console.ReadLine();
+            string? opcao = Console.ReadLine();
             
             if (!ProcessarOpcao(vendingMachine, opcao)) break;
         }

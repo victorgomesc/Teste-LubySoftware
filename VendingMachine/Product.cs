@@ -1,12 +1,11 @@
-using System;
-
-public class Produto
+// Produto.cs
+public class Product
 {
-    public string Nome { get; set; }
-    public decimal Preco { get; set; }
+    public string Nome { get; }
+    public decimal Preco { get; }
     public int Quantidade { get; set; }
 
-    public Produto(string nome, decimal preco, int quantidade)
+    public Product(string nome, decimal preco, int quantidade)
     {
         Nome = nome;
         Preco = preco;

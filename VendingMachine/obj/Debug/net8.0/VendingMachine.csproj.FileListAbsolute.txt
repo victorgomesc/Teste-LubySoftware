@@ -12,3 +12,4 @@
 /home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.pdb
 /home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.genruntimeconfig.cache
 /home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/ref/VendingMachine.dll
+/home/victor/Teste-luby-software/VendingMachine/obj/Debug/net8.0/VendingMachine.sourcelink.json
