@@ -7,13 +7,11 @@ public class VendingMachine
     private List<Product> estoque = new List<Product>();
     private decimal totalVendas = 0;
 
-    // Construtor para inicializar o estoque da máquina
     public VendingMachine()
     {
         InicializarEstoque();
     }
 
-    // Inicializa o estoque com produtos padrão
     private void InicializarEstoque()
     {
         estoque.Add(new Product("Refrigerante", 5.00m, 10));
@@ -21,7 +19,6 @@ public class VendingMachine
         estoque.Add(new Product("Água", 2.00m, 15));
     }
 
-    // Exibe o estoque disponível
     public void MostrarEstoque()
     {
         Console.WriteLine("Estoque disponível:");
@@ -31,7 +28,6 @@ public class VendingMachine
         }
     }
 
-    // Realiza uma venda de produto
     public void VenderProduct()
     {
         Product product = SelecionarProduct();
@@ -44,7 +40,6 @@ public class VendingMachine
         }
     }
 
-    // Seleciona um produto do estoque
     private Product SelecionarProduct()
     {
         Console.Write("Digite o nome do produto desejado: ");
@@ -67,7 +62,6 @@ public class VendingMachine
         return product;
     }
 
-    // Solicita o pagamento para a compra do produto
     private decimal SolicitarPagamento(Product product)
     {
         Console.WriteLine($"Preço do {product.Nome}: R${product.Preco}");
@@ -95,7 +89,6 @@ public class VendingMachine
         return valorInserido;
     }
 
-    // Finaliza a venda e calcula o troco, se houver
     private void FinalizarVenda(Product product, decimal valorInserido)
     {
         decimal troco = valorInserido - product.Preco;
@@ -109,7 +102,6 @@ public class VendingMachine
         }
     }
 
-    // Exibe o total de vendas realizadas
     public void MostrarTotalVendas()
     {
         Console.WriteLine($"Total de vendas: R${totalVendas}");
