@@ -75,6 +75,20 @@ Teste-SQL/
 
 ### VendingMachine
 
+<p>Para executar basta seguir os seguintes comandos:</p>
 
+1. **Navegue até o diretório do projeto**:
+
+   ```bash
+   cd Teste-LubySoftware
+   cd VendingMachine
+   ```
+
+3. **Digite no terminal**:
+
+   ```bash
+   dotnet run
+   ```
+<p>Após isso abrira um menu no conssole com as opções.</p>
 
    
