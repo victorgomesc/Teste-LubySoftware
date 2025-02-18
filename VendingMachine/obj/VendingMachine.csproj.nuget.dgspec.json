@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/victor/Teste-luby-software/VendingMachine/VendingMachine.csproj": {}
+    "C:\\Users\\victo\\www\\Teste-LubySoftware\\VendingMachine\\VendingMachine.csproj": {}
   },
   "projects": {
-    "/home/victor/Teste-luby-software/VendingMachine/VendingMachine.csproj": {
+    "C:\\Users\\victo\\www\\Teste-LubySoftware\\VendingMachine\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/victor/Teste-luby-software/VendingMachine/VendingMachine.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\www\\Teste-LubySoftware\\VendingMachine\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "/home/victor/Teste-luby-software/VendingMachine/VendingMachine.csproj",
-        "packagesPath": "/home/victor/.nuget/packages/",
-        "outputPath": "/home/victor/Teste-luby-software/VendingMachine/obj/",
+        "projectPath": "C:\\Users\\victo\\www\\Teste-LubySoftware\\VendingMachine\\VendingMachine.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\victo\\www\\Teste-LubySoftware\\VendingMachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/victor/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

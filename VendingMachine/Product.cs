@@ -1,4 +1,3 @@
-// Produto.cs
 public class Product
 {
     public string Nome { get; }

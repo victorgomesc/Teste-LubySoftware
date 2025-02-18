@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NSdkXC9fg3gSYDlILId+G3VbbIw4ef+86qT/2j32dRFtXvVrdKwjCX3UbZvALtLc/9G/L57dLezNAanly9KCPg==",
+  "dgSpecHash": "2GVHKS5Q2RI=",
   "success": true,
-  "projectFilePath": "/home/victor/Teste-luby-software/VendingMachine/VendingMachine.csproj",
+  "projectFilePath": "C:\\Users\\victo\\www\\Teste-LubySoftware\\VendingMachine\\VendingMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
